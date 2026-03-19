@@ -6,7 +6,7 @@ A personal portfolio website built with **React** and **Vite**, featuring smooth
 
 ## 🚀 Live Demo
 
-> _Add your deployed link here (e.g., Vercel, Netlify, GitHub Pages)_
+https://kailashchand1222.com.np/
 
 ---
 
@@ -63,7 +63,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open https://kailashchand1222.com.np/ in your browser.
 
 ---
 
