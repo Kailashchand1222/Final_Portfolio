@@ -84,9 +84,7 @@ Open https://kailashchand1222.com.np/ in your browser.
 # Build the project
 npm run build
 
-# The output will be in the /dist folder
-# Deploy /dist to Vercel, Netlify, or GitHub Pages
-```
+
 
 ---
 
